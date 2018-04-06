@@ -1,0 +1,174 @@
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.exe
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.pdb
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.xml
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Breakout FINAL\Breakout FINAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.exe
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.xml
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.pdb
+E:\VBS\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.exe
+E:\VBS\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.xml
+E:\VBS\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.pdb
+E:\VBS\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.exe
+E:\VBS\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.pdb
+E:\VBS\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.xml
+E:\VBS\Breakout FINAL\Breakout FINAL\obj\Debug\ResolveAssemblyReference.cache
+E:\VBS\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.Form1.resources
+E:\VBS\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.Resources.resources
+E:\VBS\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.vbproj.GenerateResource.Cache
+M:\VBS\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.exe
+M:\VBS\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.xml
+M:\VBS\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.pdb
+M:\VBS\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.exe
+M:\VBS\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.pdb
+M:\VBS\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.xml
+M:\VBS\Breakout FINAL\Breakout FINAL\obj\Debug\ResolveAssemblyReference.cache
+M:\VBS\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.Resources.resources
+M:\VBS\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.vbproj.GenerateResource.Cache
+M:\VBS\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmGame.resources
+M:\VBS\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmInstructions.resources
+M:\VBS\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmLevel.resources
+M:\VBS\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmAbout.resources
+M:\VBS\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.exe.config
+C:\Users\Admin\Desktop\Software\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.exe.config
+C:\Users\Admin\Desktop\Software\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.exe
+C:\Users\Admin\Desktop\Software\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.xml
+C:\Users\Admin\Desktop\Software\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.pdb
+C:\Users\Admin\Desktop\Software\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.exe
+C:\Users\Admin\Desktop\Software\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.pdb
+C:\Users\Admin\Desktop\Software\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.xml
+C:\Users\Admin\Desktop\Software\Breakout FINAL\Breakout FINAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Software\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmAbout.resources
+C:\Users\Admin\Desktop\Software\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmGame.resources
+C:\Users\Admin\Desktop\Software\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmInstructions.resources
+C:\Users\Admin\Desktop\Software\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmLevel.resources
+C:\Users\Admin\Desktop\Software\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.Resources.resources
+C:\Users\Admin\Desktop\Software\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Software\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmOptions.resources
+C:\Users\Admin\Desktop\Software\Spammer Trial\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.exe.config
+C:\Users\Admin\Desktop\Software\Spammer Trial\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.exe
+C:\Users\Admin\Desktop\Software\Spammer Trial\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.xml
+C:\Users\Admin\Desktop\Software\Spammer Trial\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.pdb
+C:\Users\Admin\Desktop\Software\Spammer Trial\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.exe
+C:\Users\Admin\Desktop\Software\Spammer Trial\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.pdb
+C:\Users\Admin\Desktop\Software\Spammer Trial\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.xml
+C:\Users\Admin\Desktop\Software\Spammer Trial\Breakout FINAL\Breakout FINAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Software\Spammer Trial\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmAbout.resources
+C:\Users\Admin\Desktop\Software\Spammer Trial\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmGame.resources
+C:\Users\Admin\Desktop\Software\Spammer Trial\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmInstructions.resources
+C:\Users\Admin\Desktop\Software\Spammer Trial\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmLevel.resources
+C:\Users\Admin\Desktop\Software\Spammer Trial\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmOptions.resources
+C:\Users\Admin\Desktop\Software\Spammer Trial\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.Resources.resources
+C:\Users\Admin\Desktop\Software\Spammer Trial\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Software\Breakout FINAL\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.exe.config
+C:\Users\Admin\Desktop\Software\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.exe
+C:\Users\Admin\Desktop\Software\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.xml
+C:\Users\Admin\Desktop\Software\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.pdb
+C:\Users\Admin\Desktop\Software\Breakout FINAL\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.exe
+C:\Users\Admin\Desktop\Software\Breakout FINAL\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.pdb
+C:\Users\Admin\Desktop\Software\Breakout FINAL\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.xml
+C:\Users\Admin\Desktop\Software\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Software\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmAbout.resources
+C:\Users\Admin\Desktop\Software\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmGame.resources
+C:\Users\Admin\Desktop\Software\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmInstructions.resources
+C:\Users\Admin\Desktop\Software\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmLevel.resources
+C:\Users\Admin\Desktop\Software\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmOptions.resources
+C:\Users\Admin\Desktop\Software\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.Resources.resources
+C:\Users\Admin\Desktop\Software\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.vbproj.GenerateResource.Cache
+E:\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.exe.config
+E:\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.exe
+E:\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.xml
+E:\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.pdb
+E:\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.exe
+E:\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.pdb
+E:\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.xml
+E:\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmAbout.resources
+E:\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmGame.resources
+E:\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmInstructions.resources
+E:\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmLevel.resources
+E:\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmOptions.resources
+E:\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.Resources.resources
+E:\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.vbproj.GenerateResource.Cache
+H:\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.exe.config
+H:\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.exe
+H:\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.xml
+H:\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.pdb
+H:\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.exe
+H:\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.pdb
+H:\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.xml
+H:\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\ResolveAssemblyReference.cache
+H:\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmAbout.resources
+H:\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmGame.resources
+H:\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmInstructions.resources
+H:\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmLevel.resources
+H:\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmOptions.resources
+H:\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.Resources.resources
+H:\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\New Folder\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.exe.config
+C:\Users\Admin\Desktop\New Folder\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.exe
+C:\Users\Admin\Desktop\New Folder\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.xml
+C:\Users\Admin\Desktop\New Folder\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.pdb
+C:\Users\Admin\Desktop\New Folder\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.exe
+C:\Users\Admin\Desktop\New Folder\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.pdb
+C:\Users\Admin\Desktop\New Folder\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.xml
+C:\Users\Admin\Desktop\New Folder\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\New Folder\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmAbout.resources
+C:\Users\Admin\Desktop\New Folder\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmGame.resources
+C:\Users\Admin\Desktop\New Folder\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmInstructions.resources
+C:\Users\Admin\Desktop\New Folder\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmLevel.resources
+C:\Users\Admin\Desktop\New Folder\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmOptions.resources
+C:\Users\Admin\Desktop\New Folder\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.Resources.resources
+C:\Users\Admin\Desktop\New Folder\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\New Folder\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmUnlock.resources
+E:\Programs\Breakout FINAL\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmUnlock.resources
+E:\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.exe.config
+E:\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.exe
+E:\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.xml
+E:\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.pdb
+E:\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.exe
+E:\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.pdb
+E:\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.xml
+E:\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmAbout.resources
+E:\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmGame.resources
+E:\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmInstructions.resources
+E:\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmLevel.resources
+E:\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmOptions.resources
+E:\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmUnlock.resources
+E:\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.Resources.resources
+E:\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.vbproj.GenerateResource.Cache
+H:\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.exe.config
+H:\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.exe
+H:\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.xml
+H:\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.pdb
+H:\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.exe
+H:\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.pdb
+H:\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.xml
+H:\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\obj\Debug\ResolveAssemblyReference.cache
+H:\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmAbout.resources
+H:\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmGame.resources
+H:\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmInstructions.resources
+H:\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmLevel.resources
+H:\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmOptions.resources
+H:\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmUnlock.resources
+H:\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.Resources.resources
+H:\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.vbproj.GenerateResource.Cache
+C:\Users\iDunnololz\Desktop\USB_Temp\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.exe.config
+C:\Users\iDunnololz\Desktop\USB_Temp\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.exe
+C:\Users\iDunnololz\Desktop\USB_Temp\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.xml
+C:\Users\iDunnololz\Desktop\USB_Temp\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.pdb
+C:\Users\iDunnololz\Desktop\USB_Temp\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.exe
+C:\Users\iDunnololz\Desktop\USB_Temp\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.pdb
+C:\Users\iDunnololz\Desktop\USB_Temp\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\bin\Debug\Breakout FINAL.xml
+C:\Users\iDunnololz\Desktop\USB_Temp\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\iDunnololz\Desktop\USB_Temp\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmAbout.resources
+C:\Users\iDunnololz\Desktop\USB_Temp\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmGame.resources
+C:\Users\iDunnololz\Desktop\USB_Temp\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmInstructions.resources
+C:\Users\iDunnololz\Desktop\USB_Temp\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmLevel.resources
+C:\Users\iDunnololz\Desktop\USB_Temp\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmOptions.resources
+C:\Users\iDunnololz\Desktop\USB_Temp\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.frmUnlock.resources
+C:\Users\iDunnololz\Desktop\USB_Temp\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout_FINAL.Resources.resources
+C:\Users\iDunnololz\Desktop\USB_Temp\Programs\Gary_Breakout\Breakout FINAL\Breakout FINAL\obj\Debug\Breakout FINAL.vbproj.GenerateResource.Cache
