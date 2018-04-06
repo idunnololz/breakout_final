@@ -1,0 +1,336 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{46C86844-DB61-4979-8F1C-05657DFDF84C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Breakout_FINAL.My.MyApplication</StartupObject>
+    <RootNamespace>Breakout_FINAL</RootNamespace>
+    <AssemblyName>Breakout FINAL</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <SignManifests>false</SignManifests>
+    <TargetZone>LocalIntranet</TargetZone>
+    <GenerateManifests>false</GenerateManifests>
+    <ManifestCertificateThumbprint>4F405C4BF15B8731272CECFE2B189F2261771FF7</ManifestCertificateThumbprint>
+    <ManifestKeyFile>Breakout FINAL_TemporaryKey.pfx</ManifestKeyFile>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Breakout FINAL.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Breakout FINAL.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAbout.Designer.vb">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAbout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGame.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGame.Designer.vb">
+      <DependentUpon>frmGame.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLevel.Designer.vb">
+      <DependentUpon>frmLevel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLevel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInstructions.Designer.vb">
+      <DependentUpon>frmInstructions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmInstructions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOptions.Designer.vb">
+      <DependentUpon>frmOptions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmOptions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUnlock.Designer.vb">
+      <DependentUpon>frmUnlock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmUnlock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmAbout.resx">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGame.resx">
+      <DependentUpon>frmGame.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInstructions.resx">
+      <DependentUpon>frmInstructions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLevel.resx">
+      <DependentUpon>frmLevel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOptions.resx">
+      <DependentUpon>frmOptions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUnlock.resx">
+      <DependentUpon>frmUnlock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Aqua-Blue-Tiger copy.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ball.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ball2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ballmulti.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BlockNorm.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BlockS.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Breakout.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Breakout1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\C.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cannon.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fast.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FireBall.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fireball1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Heart.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pad.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slime.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Slow.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\metalBlock.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stickyPad.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ocean.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\app.manifest" />
+    <None Include="Resources\HS.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cannonShot.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Narrow.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wide.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\redbg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellowBG.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hough_waves3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newgamePic.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newgamePic2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\About.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\About2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\howto.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\howto2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Options.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Options2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shield.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pad2.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
